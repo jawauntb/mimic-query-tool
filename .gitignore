@@ -3,3 +3,6 @@ __pycache__/
 *.csv
 venv/
 mqtenv/
+# Ignore dataset files
+CORD-19-research-challenge.zip
+data/
